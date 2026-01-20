@@ -1,5 +1,5 @@
-# Subdomain-DNS-Enumeration
-This project is a Bash-based reconnaissance script created to assist in subdomain enumeration during web application penetration testing.
+# Subdomain-DNS-Enumeration (Subdomain takeover)
+This project is a Bash-based reconnaissance script created to assist in subdomain enumeration during web application penetration testing revealing potential subdomain takeover.
 
 The script:
 - Enumerates subdomains using a wordlist
